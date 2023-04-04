@@ -5,7 +5,7 @@
 ### Model Used: Logistic Regression 
 ### Packages Used: NumPy, Pandas, Scikit-Learn, NLTK <br>
 ### Accuracy: 
-### -  97.9% for testing data <br>
+### -  97.9% for testing data  <br>
 ### -  98.6% for training data <br>
 ---          
           
